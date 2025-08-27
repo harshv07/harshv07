@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Harshvardhan 
-- 👀 I’m interested in lerning new technologies as well as increasing my knowledge in IT industry
-- 🌱 I’m currently completing my under graduation course as well as learning technologies like web-dev,app-dev and i also have intrest in cybersecurity and networking domain.
+# 👋 Hi, I’m Harshvardhan Shingade  
 
-<!---
-harshv07/harshv07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Currently working at **Wipro** as a **Java Spring Boot Microservices Developer**.  
+- 👀 I’m passionate about learning new technologies and growing my expertise in the IT industry.  
+- 🌱 Exploring areas like **Web Development**, **App Development**, **Cybersecurity**, and **Networking**.  
+- 💡 I love solving problems, building scalable applications, and collaborating on impactful projects.  
+- 🤝 Open to knowledge sharing, contributions, and collaboration in the developer community.  
